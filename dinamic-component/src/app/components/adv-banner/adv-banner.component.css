@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    width: 100%;
+    height: 500px;
+    box-shadow: 0 8px 6px -6px black;
+}
+.content-banner{
+    height: 500px;
+}
+
+.adv-banner{
+    background-image: url("https://d2o2utebsixu4k.cloudfront.net/media/images/92386c6b-878e-44d2-a07c-8b60134e1976.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
